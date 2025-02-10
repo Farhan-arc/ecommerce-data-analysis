@@ -9,19 +9,21 @@ Key Insights and Analysis
 
 1. Data Cleaning and Preprocessing
 
-.Handled Missing Values:Identified and addressed missing data across columns to ensure data integrity.
+   .Handled Missing Values:Identified and addressed missing data across columns to ensure data integrity.
 
-.Outlier Removal:Discovered and removed negative quantities in the dataset that were likely errors in transaction recording.
+   .Outlier Removal:Discovered and removed negative quantities in the dataset that were likely errors in transaction recording.
 
-.Feature Engineering: Created a new column Amount_Spent by calculating the total money spent in each transaction,
- giving us a clearer picture of sales trends.
+   .Feature Engineering: Created a new column Amount_Spent by calculating the total money spent in each transaction,
+    giving us a clearer picture of sales trends.
  
 2. Transaction Insights
-. Calculated the total money spent for each transaction, allowing us to analyze revenue generated over time.
    
-. Extracted additional temporal features such as Year, Month, Day, and Hour from the InvoiceDate to better understand seasonal trends and time-specific behavior
+   . Calculated the total money spent for each transaction, allowing us to analyze revenue generated over time.
+   
+   . Extracted additional temporal features such as Year, Month, Day, and Hour from the InvoiceDate to better understand seasonal trends and time-specific behavior
 
 3. Customer Behavior Analysis
-. Identified the Top 5 Customers based on the amount spent, providing valuable information for customer retention strategies
- and targeted marketing campaigns.
+   
+   . Identified the Top 5 Customers based on the amount spent, providing valuable information for customer
+     retention strategies and targeted marketing campaigns.
    
