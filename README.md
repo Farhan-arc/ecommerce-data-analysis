@@ -14,7 +14,7 @@ Key Insights and Analysis
    .Outlier Removal:Discovered and removed negative quantities in the dataset that were likely errors in transaction recording.
 
    .Feature Engineering: Created a new column Amount_Spent by calculating the total money spent in each transaction,
-    giving us a clearer  picture of sales trends.
+     giving us a clearer  picture of sales trends.
  
 2. Transaction Insights
    
@@ -25,7 +25,7 @@ Key Insights and Analysis
 3. Customer Behavior Analysis
    
    . Identified the Top 5 Customers based on the amount spent, providing valuable information for customer
-     retention strategies and targeted marketing campaigns.
+      retention strategies and targeted marketing campaigns.
 
 4. Time-based Insights
 
