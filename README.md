@@ -8,7 +8,9 @@ The dataset includes various features like product details, customer information
 Key Objectives
 
 Data Cleaning: Handling missing values and removing negative quantities from the dataset.
+
 Data Transformation: Converting the InvoiceDate to a datetime format and extracting useful time-based features like year, month, day, and hour.
+
 Insights Generation:
 Calculate total spending for each transaction.
 Identify top customers based on their spending.
