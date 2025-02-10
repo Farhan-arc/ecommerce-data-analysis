@@ -67,4 +67,7 @@ Why This Project Stands Out:
  
  Comprehensive Analysis: This project covers all aspects of EDA, including data cleaning, feature engineering, and visualization, 
                          providing a complete analytical  workflow.
+
+NOTE:- DUE TO LARGE SIZE OF THE DATASET,IT HAS NOT BEEN UPLOADED TO THIS REPOSITORY.
+        HOWEVER, YOU CAN DOWNLOAD THE DATASET FROM [https://www.kaggle.com/carreil/ecommerce_data]                         
    
