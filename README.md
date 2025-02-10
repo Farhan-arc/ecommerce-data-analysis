@@ -7,11 +7,16 @@ The primary goal was to clean, transform, and analyze the data to uncover meanin
 
 Key Insights and Analysis
 
-Data Cleaning and Preprocessing
+1. Data Cleaning and Preprocessing
 
-.Handled Missing Values: Identified and addressed missing data across columns to ensure data integrity.
+.Handled Missing Values:Identified and addressed missing data across columns to ensure data integrity.
 
-.Outlier Removal: Discovered and removed negative quantities in the dataset that were likely errors in transaction recording.
+.Outlier Removal:Discovered and removed negative quantities in the dataset that were likely errors in transaction recording.
 
 .Feature Engineering: Created a new column Amount_Spent by calculating the total money spent in each transaction,
  giving us a clearer picture of sales trends.
+ 
+2. Transaction Insights
+3. Calculated the total money spent for each transaction, allowing us to analyze revenue generated over time.
+4. 
+ Extracted additional temporal features such as Year, Month, Day, and Hour from the InvoiceDate to better understand seasonal trends and time-specific behavior
