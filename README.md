@@ -46,11 +46,11 @@ Skills & Techniques Demonstrated
     
    -Exploratory Data Analysis (EDA)
    
-  - Feature Engineering
+   - Feature Engineering
    
-  - Data Visualization
+   - Data Visualization
    
-  - Time Series Analysis
+   - Time Series Analysis
 
 Key Takeaways
 
@@ -65,5 +65,5 @@ Why This Project Stands Out:
  Actionable insights: The findings from this analysis are practical and valuable for improving business processes, marketing efforts, and customer experience.
  
  Comprehensive Analysis: This project covers all aspects of EDA, including data cleaning, feature engineering, and visualization, 
- providing a complete analytical  workflow.
+  providing a complete analytical  workflow.
    
