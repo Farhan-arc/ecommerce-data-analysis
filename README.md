@@ -1,7 +1,6 @@
 # Ecommerce-data-analysis
-<div align="Center">
-  
 Project Overview
+<div align="right">
 This project involves performing an Exploratory Data Analysis (EDA) on real transaction data from a UK retailer. The goal is to gain insights from e-commerce transactions, including customer spending patterns, product purchases, and sales trends. The dataset includes various features like product details, customer information, and transaction timestamps.
 
 Key Objectives
