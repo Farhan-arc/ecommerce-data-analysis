@@ -17,6 +17,11 @@ Key Insights and Analysis
  giving us a clearer picture of sales trends.
  
 2. Transaction Insights
-3. Calculated the total money spent for each transaction, allowing us to analyze revenue generated over time.
-4. 
- Extracted additional temporal features such as Year, Month, Day, and Hour from the InvoiceDate to better understand seasonal trends and time-specific behavior
+. Calculated the total money spent for each transaction, allowing us to analyze revenue generated over time.
+   
+. Extracted additional temporal features such as Year, Month, Day, and Hour from the InvoiceDate to better understand seasonal trends and time-specific behavior
+
+3. Customer Behavior Analysis
+. Identified the Top 5 Customers based on the amount spent, providing valuable information for customer retention strategies
+ and targeted marketing campaigns.
+   
