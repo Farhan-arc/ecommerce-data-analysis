@@ -42,15 +42,15 @@ Tools and Libraries Used
 
 Skills & Techniques Demonstrated
 
-   -Data Cleaning and Transformation
+   1. Data Cleaning and Transformation
     
-   -Exploratory Data Analysis (EDA)
+   2. Exploratory Data Analysis (EDA)
    
-   - Feature Engineering
+   3. Feature Engineering
    
-   - Data Visualization
+   4. Data Visualization
    
-   - Time Series Analysis
+   5. Time Series Analysis
 
 Key Takeaways
 
@@ -62,8 +62,9 @@ Why This Project Stands Out:
 
  Real-world data: The dataset used is from a real UK retailer, making the project highly relevant for understanding retail business operations.
  
- Actionable insights: The findings from this analysis are practical and valuable for improving business processes, marketing efforts, and customer experience.
+ Actionable insights: The findings from this analysis are practical and valuable for improving business processes, marketing efforts,
+                      and customer experience.
  
  Comprehensive Analysis: This project covers all aspects of EDA, including data cleaning, feature engineering, and visualization, 
-  providing a complete analytical  workflow.
+                         providing a complete analytical  workflow.
    
